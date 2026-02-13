@@ -1,12 +1,14 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fafafa;
+  --background: radial-gradient(circle,rgba(209, 238, 174, 0.4) 0%, rgba(148, 187, 233, 1) 100%);
+  --foreground: #231d1d;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #1d041c;
+    --background: linear-gradient(70deg,rgba(112, 22, 109, 1) 0%, rgba(9, 9, 121, 1) 32%, rgba(0, 212, 255, 1) 100%);
+    --foreground: #ffffff;
   }
 }
 
