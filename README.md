@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) template project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-It functions as a paint palette where I can mix and blend things before applying them to other projects.
+It functions as a paint palette where I can mix and blend things before applying them to other projects. UNSTYLED throughout.
 
 ## Getting Started
 
